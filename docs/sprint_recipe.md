@@ -52,7 +52,7 @@ docuemadd ability to see # of concurrent users in stripe Grafana workspace over 
 
 - grab 50x error codes for Grafana datasource calls - store them and visualize them for stripe in a stripe dashboard
 
-# API Reference
+
 Read the Docs tutorial
 ----------------------
 
