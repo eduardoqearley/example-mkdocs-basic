@@ -5,13 +5,7 @@ Example: Basic MkDocs project for Read the Docs
 
 Example Project usage
 ---------------------
-
-Example Project usage
----------------------
-Example Project usage
----------------------
-
-   ::: - we dont review every single story and estimate it
+::: - we dont review every single story and estimate it
     - we focus on the value each stream wants to deliver
     - we use the team hive mind to discuss and estimate when its needed
     - we use at least 2 points of ops buffer per sprint for expected random incoming ops/sre work
@@ -31,9 +25,9 @@ Example Project usage
     thursday - double check your capacity for next sprint 
     thursday - ensure we have a Scrum Leader and a Poker Room Leader
     friday - punt work
-</misc>
 
-friday meeting
+Example Project usage
+---------------------
 - check to make sure we need this meeting first
 - pull up next sprint
 - sort by story title
@@ -51,6 +45,8 @@ https://docs.google.com/spreadsheets/d/1WC2PV2K3_dhornzVCAhIJQLqidSrEABFVDRAHZoJ
 - update the WoW plan
 - update the sprint demo quip
 
+Example Project usage
+---------------------
 - we have this.
 docuemadd ability to see # of concurrent users in stripe Grafana workspace over a time range [if it doesnt exist] and share with team
 
