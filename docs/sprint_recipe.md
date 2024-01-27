@@ -1,5 +1,8 @@
 # Sprint Recipe
 
+Example: Basic MkDocs project for Read the Docs
+===============================================
+
 
    ::: - we dont review every single story and estimate it
     - we focus on the value each stream wants to deliver
