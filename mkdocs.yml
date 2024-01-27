@@ -14,3 +14,11 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+nav:
+  - Home: 'index.md'
+  - 'Agile':
+    - 'Week': 'sprint_recipe.md'
+    - 'Planning': 'sprint_recipe.md'
+  - About:
+    - 'License': 'license.md'
+    - 'Release Notes': 'release-notes.md'
