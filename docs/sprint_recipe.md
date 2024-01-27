@@ -1,4 +1,4 @@
-# sprint recipe
+# Sprint Recipe
 
 <misc>
     - we dont review every single story and estimate it
