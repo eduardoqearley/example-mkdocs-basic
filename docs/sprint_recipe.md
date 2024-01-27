@@ -1,7 +1,7 @@
 # Sprint Recipe
 
 <misc>
-    - we dont review every single story and estimate it
+   ::: - we dont review every single story and estimate it
     - we focus on the value each stream wants to deliver
     - we use the team hive mind to discuss and estimate when its needed
     - we use at least 2 points of ops buffer per sprint for expected random incoming ops/sre work
